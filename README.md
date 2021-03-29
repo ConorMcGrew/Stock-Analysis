@@ -6,7 +6,16 @@
 
 ## Results
 
-  Usingimagesandexamplesofyourcode,comparethestock performance between 2017 and 2018, as well as the execution    times of the original script and the refactored script.
+  <img width="1417" alt="Original (2017)" src="https://user-images.githubusercontent.com/80495710/112835035-bd2f7500-9066-11eb-9e44-7e7e333ea6cd.png">
+
+<img width="1398" alt="Screen Shot 2021-03-29 at 8 22 01 AM" src="https://user-images.githubusercontent.com/80495710/112835902-e3a1e000-9067-11eb-9c8c-03f3e6aea312.png">
+
+
+For 2017, DQ (the ticker for DAQO Green Energy) had the *highest* overall percentage return, but had the *lowest* total volume for the year. In 2018, DAQO's volume *rose to nearly triple* the previous year's volume, but had the *lowest* percent return. So one year, DAQO didn't have enough volume of trading to be truly accurate, but had extremely high return. The next, it had enough volume, but the return was extremely low. 
+
+I would encourage Steve's parents were to invest in ENPH. For 2017, their return was +129.5% (the 3rd highest that year) with a total volume of 221,772,100 (in the top half), and for 2018, their return was +81.9% (one of only two positive returns) with a total volume of 607,473,500 (the highest that year). Of course, more years would need to be added in order to establish a trend, but the stock for this company seems to be the best for maintaining positive return with high volume. 
+
+
   
 ## Summary
 
