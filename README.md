@@ -25,6 +25,5 @@ This modified script still uses two different for loops, but it is capable of as
   
 ## Summary
 
-  1. Whataretheadvantagesordisadvantagesofrefactoringcode?
-  2. HowdotheseprosandconsapplytorefactoringtheoriginalVBA script?
+Refactoring code, particularly in this instance, takes a great deal more time on the front end. The "brute-force" methods get the actual programming portion done much faster. It took me under two hours to get the original code up and running, but more than ten hours to get the refactored code to work. However, the original is *significantly* more limited in the data it can be applied to than the refactored. The refactored code is only limited by the number of rows excel can display and count, and the fact that the data itself has to start on the second row. Part of the reason it took so long, is that VBA doesn't seem to be very good at abstraction. The work arounds for arrays and data sets with unspecified numbers of elements are complex. It is very good at iteration though (as seen by the original script). So overall, the refactoring of VBA mainly depends on how abstract we want to make it. The more versatile we want it to be, the longer it will take to refactor. If we already know some of the properties of the data set, we can more easily create something simple that "does the job". 
 
